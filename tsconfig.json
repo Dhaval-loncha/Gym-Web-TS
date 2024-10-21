@@ -3,7 +3,7 @@
 		"baseUrl": ".",
 		"paths": {
 			"@/*": ["./src/*"],
-			"rollup/parseAst": ["node_modules/rollup/dist/parseAst.d.ts"]
+			"rollup/*": ["./node_modules/rollup/*"]
 		},
 		"target": "ESNext",
 		"useDefineForClassFields": true,
