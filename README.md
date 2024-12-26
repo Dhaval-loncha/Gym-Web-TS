@@ -33,7 +33,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Dhaval-loncha/gym-web-ts.git
+    git clone https://github.com/Dhaval-loncha/Gym-Web-TS.git
     ```
 
 2. Navigate to the project folder:
